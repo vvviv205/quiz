@@ -1,0 +1,139 @@
+{
+  "questions": [
+    {
+      "question": "What is my name?",
+      "options": ["Ali", "Mohammad", "Joe", "Peter"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "How old am I?",
+      "options": ["20 yo", "15 yo", "13 yo", "18 yo"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "What is my job and dream field?",
+      "options": ["Software developer", "medical", "pilot", "engineer"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Where did I born?",
+      "options": ["Erbil", "Najaf", "Mosul", "Basra"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is my dream university?",
+      "options": [
+        "MIT",
+        "Kufa university",
+        "Stanford university",
+        "others.."
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is my favourite food?",
+      "options": ["Pasta", "Biryani", "burger", "Kabab"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is my dream city?",
+      "options": [
+        "Moscow",
+        "Ankara",
+        "Roma",
+        "NYC"
+      ],
+      "correctOption": 3,
+      "points": 30
+    },
+    {
+      "question": "My favourite football team?",
+      "options": [
+        "Real Madrid",
+        "Manchester city",
+        "Barcelona",
+        "Napoli"
+      ],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Who is the GOAT?",
+      "options": [
+        "Beckham",
+        "diego Maradona",
+        "Pele",
+        "Lionel Messi"
+      ],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "My favourite game console?",
+      "options": [
+        "Xbox",
+        "Pc",
+        "Nintendo",
+        "Playstation"
+      ],
+      "correctOption": 3,
+      "points": 30
+    },
+    {
+      "question": "My favourite game?",
+      "options": [
+        "Call of duty",
+        "Horizon frobidden west",
+        "Uncharted",
+        "God of war"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "My phone brand is : ?",
+      "options": ["Samsung", "iphone", "Realmi", "Honor"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "My education level is : ?",
+      "options": [
+        "Primary",
+        "Intermediate",
+        "University",
+        "Preparatory"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "My favourite movie is : ?",
+      "options": [
+        "Interstellar",
+        "Ambulance",
+        "My fault",
+        "Lucy"
+      ],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "My favourite song is : ?",
+      "options": [
+        "Way down we go",
+        "Love story",
+        "Childhood",
+        "Diamonds"
+      ],
+      "correctOption": 3,
+      "points": 20
+    }
+  ]
+}
